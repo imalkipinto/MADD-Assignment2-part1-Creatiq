@@ -1,7 +1,7 @@
 # Creatiq — Craft. Create. Influence.
 
 <p align="center">
-  <img src="Assets.xcassets/logo.imageset/logo.png" alt="Creatiq App Icon" width="160" />
+  <img src="Assets.xcassets/logo.imageset/creatiqlogo.png" alt="Creatiq App Icon" width="160" />
 </p>
 
 <p align="center"><strong>The ultimate all-in-one mobile studio for influencers, creators, and digital storytellers.</strong><br/>
