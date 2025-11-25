@@ -24,7 +24,7 @@ Plan posts, generate AI captions, build stunning moodboards, track outfits, and 
 Creatiq is an elite AI content studio built for creators who want to plan, produce and polish social content quickly and beautifully. It's designed with iOS-first UX using SwiftUI and advanced UIKit animations, and powered by Core ML and the Gemini API for powerful on-device + cloud caption generation.
 
 - Ideal for Instagram & TikTok creators — Creatiq follows a similar visual and interaction theme to popular content creation apps on those platforms.  
-  <a href="https://www.instagram.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="30" /></a>
+  <a href="h[ttps://www.instagram.com](https://i.pinimg.com/736x/19/42/d5/1942d5deb0f788e6228054cd92767ff6.jpg)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="30" /></a>
   <a href="https://www.tiktok.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/TikTok_logo.svg" alt="tiktok" width="32" /></a>
 
 ---
@@ -241,14 +241,3 @@ Craft. Create. Influence.
 
 ---
 
-## GitHub Stats (Example — replace username as needed)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imalkipinto&show_icons=true&locale=en&layout=compact" alt="imalkipinto" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imalkipinto&show_icons=true&locale=en" alt="imalkipinto" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imalkipinto&" alt="imalkipinto" /></p>
-
----
-
-Notes:
-- Replace all placeholder image URLs (app icon and screenshots) with actual images in the repo (recommended path: /assets/icons/ and /assets/screenshots/).
-- Update Secrets.plist carefully and never commit secret keys to the public repo.
