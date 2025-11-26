@@ -90,18 +90,7 @@ Creatiq is an elite AI content studio built for creators who want to plan, produ
 
 ---
 
-## Screenshots
 
-<p align="center">
-  <img src="Simulator Screenshot - iPhone 16 - 2025-11-25 at 10.00.07.png
-" alt="Dashboard" width="260" />
-  <img src="URL_TO_CAPTION_GENERATOR_SCREENSHOT" alt="Caption Generator" width="260" />
-  <img src="URL_TO_MOODBOARD_SCREENSHOT" alt="Moodboard" width="260" />
-</p>
-
-Replace placeholder URLs above with screenshots hosted in this repository (recommended path: /assets/screenshots/).
-
----
 
 ## Tech Stack
 
