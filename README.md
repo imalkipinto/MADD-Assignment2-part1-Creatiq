@@ -8,6 +8,40 @@
 Plan posts, generate AI captions, build stunning moodboards, track outfits, and elevate your creative workflow.</p>
 
 ---
+<p align="center"><strong>The ultimate all-in-one mobile studio for influencers, creators, and digital storytellers.</strong><br/>
+Plan posts, generate AI captions, build stunning moodboards, track outfits, and elevate your creative workflow.</p>
+
+---
+
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="./img/1.png" alt="Screenshot 1" width="250" />
+  <img src="./img/2.png" alt="Screenshot 2" width="250" />
+  <img src="./img/3.png" alt="Screenshot 3" width="250" />
+</p>
+
+<p align="center">
+  <img src="./img/4.png" alt="Screenshot 4" width="250" />
+  <img src="./img/5.png" alt="Screenshot 5" width="250" />
+  <img src="./img/6.png" alt="Screenshot 6" width="250" />
+</p>
+
+<p align="center">
+  <img src="./img/7.png" alt="Screenshot 7" width="250" />
+  <img src="./img/8.png" alt="Screenshot 8" width="250" />
+</p>
+
+---
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/imalkipinto/MADD-Assignment2-part1-Creatiq"><img alt="Repo" src="https://img.shields.io/badge/repo-Creatiq-blue?logo=github" /></a>
+  <img alt="Platform" src="https://img.shields.io/badge/platform-iOS-lightgrey?logo=apple" />
+  <img alt="Language" src="https://img.shields.io/badge/language-Swift-orange?logo=swift" />
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green" />
+</p>
+
 
 <!-- Badges -->
 <p align="center">
